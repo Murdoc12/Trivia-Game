@@ -13,7 +13,7 @@
         question: "Where is the Eiffel Tower?",
         answers: {
             a: 'Las Vegas, Nevada',
-            b: 'Scarton, PA',
+            b: 'Scranton, PA',
             c: 'Paris, France'
         },
         correctAnswer: 'c'
